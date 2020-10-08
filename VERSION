@@ -1,0 +1,11 @@
+commit 806d708ddd73530fadfbf64675306eae5c0a2e4e
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Thu Oct 8 05:55:09 2020 -1000
+
+    Sidebar bugs (#1610)
+    
+    * fix sidebar bug
+    
+    * removed console.log
+    
+    * add footer space to docs so you can see scene graph
